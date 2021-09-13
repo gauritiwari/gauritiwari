@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Gauri Tiwari </h1>
-<h3 align="center">I'm currently a sophomore at Thapar Institute of Engineering and Technology. When I'm not programming, I listen music. I like singing and graphic designing. </h3>
+<h3 align="center">I'm currently a sophomore at Thapar Institute of Engineering and Technology. When I'm not programming, I listen to music. I like singing and graphic designing. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauritiwari&label=Profile%20views&color=0e75b6&style=flat" alt="gauritiwari" /> </p>
 
