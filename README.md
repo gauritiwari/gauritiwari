@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauritiwari&label=Profile%20views&color=0e75b6&style=flat" alt="gauritiwari" /> </p>
 
-<img src= "https://user-images.githubusercontent.com/72256767/133127175-b0f44a3f-5d60-41a7-8bc1-a284e760f198.gif" align="right" style="width:300px;height:200px;"/>
+<img src= "https://user-images.githubusercontent.com/72256767/133127175-b0f44a3f-5d60-41a7-8bc1-a284e760f198.gif" align="right" style="width:200px;height:100px;"/>
 <br />
 
 - 🔭 I’m currently working on **HTML/CSS**
